@@ -70,7 +70,7 @@ todo delete 1
 todo delete 1 --force    # skip confirmation
 ```
 
-### Chinese Mode
+### Chinese
 
 ```bash
 todo --lang zh add "买牛奶" -p 1
