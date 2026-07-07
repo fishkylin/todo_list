@@ -1,6 +1,6 @@
 # Todo CLI
 
-[English](#english) | [中文](#chinese)
+[English](#english) | [中文](#中文)
 
 ---
 
@@ -70,7 +70,7 @@ todo delete 1
 todo delete 1 --force    # skip confirmation
 ```
 
-### Chinese
+### Chinese Mode
 
 ```bash
 todo --lang zh add "买牛奶" -p 1
